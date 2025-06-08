@@ -2,6 +2,9 @@
 
 A clean, customizable homepage designed to replace your browser's default new tab page with a beautiful, productive interface.
 
+![Preview]([https://raw.githubusercontent.com/username/repo/main/path/to/image.png](https://github.com/jerankda/Zenith/blob/main/Screenshot%202025-06-09%20010828.png?raw=true))
+
+
 ## Table of Contents
 
 - [Features](#features)
