@@ -1,6 +1,7 @@
 # Zenith - Minimalist Browser Homepage
 
 A clean, customizable homepage designed to replace your browser's default new tab page with a beautiful, productive interface.
+![Alt-Text](https://i.ibb.co/KpQWdZ1X/Screenshot-2025-06-09-010828.png)
 
 ## Table of Contents
 
