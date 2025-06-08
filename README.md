@@ -5,7 +5,6 @@ A clean, customizable homepage designed to replace your browser's default new ta
 ## Table of Contents
 
 - [Features](#features)
-- [Quick Setup](#quick-setup)
 - [Available Quick Links](#available-quick-links)
 - [Widgets](#widgets)
 - [Browser Setup](#browser-setup)
@@ -21,16 +20,6 @@ A clean, customizable homepage designed to replace your browser's default new ta
 - **Real-time Clock**: Bold, transparent time display with current date
 - **Settings Panel**: Easy customization without touching code
 - **Responsive**: Works perfectly on desktop, tablet, and mobile
-
-## Quick Setup
-
-1. Click the **Deploy to Vercel** button below (or deploy manually).
-2. Copy the deployed URL.
-3. Set the deployed URL as your browser's homepage or new tab page.
-
-<div align="center">
-  <a href="https://vercel.com/new/clone?repository-url=<YOUR_REPO_URL>">🛫 Deploy to Vercel</a>
-</div>
 
 ## Available Quick Links
 
