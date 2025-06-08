@@ -60,7 +60,6 @@ Preferences → General → Homepage → Set your URL
 - **Next.js 14** with App Router
 - **Tailwind CSS** for styling
 - **Lucide React Icons**
-- Fully responsive design
 
 ## Customization
 
